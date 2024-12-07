@@ -1,2 +1,8 @@
 # IP-Geolocation
-This application will find the geolocation of an IP address.
+Important *****
+In order for the program to work, you MUST install Newtonsoft on Visual Studio
+
+How to install Newtonsoft:
+Step 1: Open "Solution Explorer" (Click View, and then click Solution Explorer)
+Step 2: Right-click the program name (For me it is IPGeolocation, and then click "Manage NuGet Packages
+Step 3: Click browse and type in Newtonsoft, and then download (This will allow the program to work)
